@@ -1,11 +1,10 @@
 #include "WHORU.h"
 
+void WHORU_example_001();
+
+
 int main(void){
 
-	const static int a ;
-	WHORU(a);
-
-	char c;
-	WHORU(c);
+	WHORU_example_001();
 
 }
