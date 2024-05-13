@@ -2,11 +2,12 @@
 
 void WHORU_example_001()
 {
+	WHORU_info();
 	const static int a;
 	WHORU(a);
 
-	char c;
-	WHORU(c);
+
+
 }
 
 //example_001 Output:

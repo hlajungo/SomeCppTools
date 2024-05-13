@@ -1,4 +1,3 @@
-#include "WHORU.h"
 
 void WHORU_example_001();
 
